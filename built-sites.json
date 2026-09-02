@@ -1,0 +1,11 @@
+{
+  "_comment": "normalized = 已建站游戏名归一化(小写去符号),永久排除;evergreen = 常青巨头,永不进候选。真相源:seo-factory/built-sites.md,建成新站当天同步这里。",
+  "normalized": [
+    "dragonswordawakening", "dragonsword", "sephiria", "shiftatmidnight", "beastofreincarnation", "sirwehaveanorcproblem"
+  ],
+  "evergreen": [
+    "steam:730", "steam:570", "steam:578080", "steam:1172470", "steam:271590", "steam:252490", "steam:440", "steam:1938090",
+    "steam:1085660", "steam:230410", "steam:359550", "steam:2358720", "steam:1245620", "steam:892970", "steam:105600", "steam:413150",
+    "steam:1091500", "steam:1203220", "steam:1623730", "steam:2767030", "steam:381210", "steam:945360", "steam:2246340"
+  ]
+}
