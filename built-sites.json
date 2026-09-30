@@ -2,7 +2,8 @@
   "_comment": "normalized = 已建站游戏名归一化(小写去符号),永久排除;evergreen = 常青巨头,永不进候选。真相源:seo-factory/built-sites.md,建成新站当天同步这里。",
   "normalized": [
     "dragonswordawakening", "dragonsword", "sephiria", "shiftatmidnight", "beastofreincarnation", "sirwehaveanorcproblem",
-    "blockspin", "roblox:6765805766", "deepfishing", "roblox:10526853622", "bongocat", "steam:3419430"
+    "blockspin", "roblox:6765805766", "deepfishing", "roblox:10526853622", "bongocat", "steam:3419430",
+    "untitledwheeliegame", "roblox:10268960646", "animaldaycareanomaly", "roblox:10701628624"
   ],
   "evergreen": [
     "steam:730", "steam:570", "steam:578080", "steam:1172470", "steam:271590", "steam:252490", "steam:440", "steam:1938090",
@@ -13,6 +14,8 @@
   "hub_only": [
     {"name": "BlockSpin", "key": "roblox:6765805766", "universeId": 6765805766, "form": "hub-only", "url": "https://lootwiki.com/blockspin/", "since": "2026-09-29"},
     {"name": "Deep Fishing", "key": "roblox:10526853622", "universeId": 10526853622, "form": "hub-only", "url": "https://lootwiki.com/deep-fishing/", "since": "2026-09-29"},
-    {"name": "Bongo Cat", "key": "steam:3419430", "appid": 3419430, "form": "hub-only", "url": "https://lootwiki.com/bongo-cat/", "since": "2026-09-29"}
+    {"name": "Bongo Cat", "key": "steam:3419430", "appid": 3419430, "form": "hub-only", "url": "https://lootwiki.com/bongo-cat/", "since": "2026-09-29"},
+    {"name": "Untitled Wheelie Game", "key": "roblox:10268960646", "universeId": 10268960646, "form": "hub-only", "url": "https://lootwiki.com/untitled-wheelie-game/", "since": "2026-09-30", "note": "lootwiki.com/untitled-wheelie-game/ 总站栏目 2026-09-30"},
+    {"name": "Animal Daycare (Anomaly)", "key": "roblox:10701628624", "universeId": 10701628624, "form": "hub-only", "url": "https://lootwiki.com/animal-daycare/", "since": "2026-09-30", "note": "lootwiki.com/animal-daycare/ 总站栏目 2026-09-30"}
   ]
 }
