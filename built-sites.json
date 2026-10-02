@@ -4,7 +4,8 @@
     "dragonswordawakening", "dragonsword", "sephiria", "shiftatmidnight", "beastofreincarnation", "sirwehaveanorcproblem",
     "blockspin", "roblox:6765805766", "deepfishing", "roblox:10526853622", "bongocat", "steam:3419430",
     "untitledwheeliegame", "roblox:10268960646", "animaldaycareanomaly", "roblox:10701628624",
-    "mogevolution", "roblox:10764479526", "racehorses", "roblox:10387635049"
+    "mogevolution", "roblox:10764479526", "racehorses", "roblox:10387635049",
+    "stoneskipping", "roblox:10765298801", "southernmudding", "roblox:8719555347"
   ],
   "evergreen": [
     "steam:730", "steam:570", "steam:578080", "steam:1172470", "steam:271590", "steam:252490", "steam:440", "steam:1938090",
@@ -19,6 +20,8 @@
     {"name": "Untitled Wheelie Game", "key": "roblox:10268960646", "universeId": 10268960646, "form": "hub-only", "url": "https://lootwiki.com/untitled-wheelie-game/", "since": "2026-09-30", "note": "lootwiki.com/untitled-wheelie-game/ 总站栏目 2026-09-30"},
     {"name": "Animal Daycare (Anomaly)", "key": "roblox:10701628624", "universeId": 10701628624, "form": "hub-only", "url": "https://lootwiki.com/animal-daycare/", "since": "2026-09-30", "note": "lootwiki.com/animal-daycare/ 总站栏目 2026-09-30"},
     {"name": "+1 Mog Evolution", "key": "roblox:10764479526", "universeId": 10764479526, "form": "hub-only", "url": "https://lootwiki.com/mog-evolution/", "since": "2026-10-01", "note": "总站栏目 lootwiki.com/mog-evolution/，2026-10-01"},
-    {"name": "Race Horses", "key": "roblox:10387635049", "universeId": 10387635049, "form": "hub-only", "url": "https://lootwiki.com/race-horses/", "since": "2026-10-01", "note": "总站栏目 lootwiki.com/race-horses/，2026-10-01"}
+    {"name": "Race Horses", "key": "roblox:10387635049", "universeId": 10387635049, "form": "hub-only", "url": "https://lootwiki.com/race-horses/", "since": "2026-10-01", "note": "总站栏目 lootwiki.com/race-horses/，2026-10-01"},
+    {"name": "+1 Stone Skipping", "key": "roblox:10765298801", "universeId": 10765298801, "form": "hub-only", "url": "https://lootwiki.com/stone-skipping/", "since": "2026-10-02", "note": "总站栏目 lootwiki.com/stone-skipping/，2026-10-02"},
+    {"name": "Southern Mudding", "key": "roblox:8719555347", "universeId": 8719555347, "form": "hub-only", "url": "https://lootwiki.com/southern-mudding/", "since": "2026-10-02", "note": "总站栏目 lootwiki.com/southern-mudding/，2026-10-02"}
   ]
 }
