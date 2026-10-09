@@ -6,7 +6,8 @@
     "untitledwheeliegame", "roblox:10268960646", "animaldaycareanomaly", "roblox:10701628624",
     "mogevolution", "roblox:10764479526", "racehorses", "roblox:10387635049",
     "stoneskipping", "roblox:10765298801", "southernmudding", "roblox:8719555347",
-    "robloxstockexchange2", "roblox:10495391267"
+    "robloxstockexchange2", "roblox:10495391267",
+    "getyourdriverslicense", "roblox:10768565603", "americanplainsmudding", "roblox:2783797267"
   ],
   "evergreen": [
     "steam:730", "steam:570", "steam:578080", "steam:1172470", "steam:271590", "steam:252490", "steam:440", "steam:1938090",
@@ -24,6 +25,8 @@
     {"name": "Race Horses", "key": "roblox:10387635049", "universeId": 10387635049, "form": "hub-only", "url": "https://lootwiki.com/race-horses/", "since": "2026-10-01", "note": "总站栏目 lootwiki.com/race-horses/，2026-10-01"},
     {"name": "+1 Stone Skipping", "key": "roblox:10765298801", "universeId": 10765298801, "form": "hub-only", "url": "https://lootwiki.com/stone-skipping/", "since": "2026-10-02", "note": "总站栏目 lootwiki.com/stone-skipping/，2026-10-02"},
     {"name": "Southern Mudding", "key": "roblox:8719555347", "universeId": 8719555347, "form": "hub-only", "url": "https://lootwiki.com/southern-mudding/", "since": "2026-10-02", "note": "总站栏目 lootwiki.com/southern-mudding/，2026-10-02"},
-    {"name": "Roblox Stock Exchange 2", "key": "roblox:10495391267", "universeId": 10495391267, "form": "hub-only", "url": "https://lootwiki.com/roblox-stock-exchange-2/", "since": "2026-10-08", "note": "总站栏目 lootwiki.com/roblox-stock-exchange-2/，2026-10-08"}
+    {"name": "Roblox Stock Exchange 2", "key": "roblox:10495391267", "universeId": 10495391267, "form": "hub-only", "url": "https://lootwiki.com/roblox-stock-exchange-2/", "since": "2026-10-08", "note": "总站栏目 lootwiki.com/roblox-stock-exchange-2/，2026-10-08"},
+    {"name": "Get Your Driver's License!", "key": "roblox:10768565603", "universeId": 10768565603, "form": "hub-only", "url": "https://lootwiki.com/get-your-drivers-license/", "since": "2026-10-09", "note": "总站栏目 lootwiki.com/get-your-drivers-license/，2026-10-09，暂无独立站"},
+    {"name": "American Plains Mudding", "key": "roblox:2783797267", "universeId": 2783797267, "form": "hub-only", "url": "https://lootwiki.com/american-plains-mudding/", "since": "2026-10-09", "note": "总站栏目 lootwiki.com/american-plains-mudding/，2026-10-09，暂无独立站"}
   ]
 }
